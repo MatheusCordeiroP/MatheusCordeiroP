@@ -2,23 +2,14 @@
 
 README under construction!
 
-<a> <img src="https://i0.statig.com.br/bancodeimagens/5i/6x/4l/5i6x4ly396q2ioenmxznv4zd3.jpg" width="400" align="center"/> </a>
+<a> <img src="https://i0.statig.com.br/bancodeimagens/5i/6x/4l/5i6x4ly396q2ioenmxznv4zd3.jpg" align="center"/> </a>
 
-<a> <img src="https://github-readme-stats.vercel.app/api?username=MatheusCordeiroP&show_icons=true&theme=darcula" width="400" align="center" /> </a>
-
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" width="400" align="center"/> </a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCordeiroP&hide_progress=true" width="400" align="center"/> </a>
 
 <!--
 **MatheusCordeiroP/MatheusCordeiroP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Add in the future:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a> <img src="https://github-readme-stats.vercel.app/api?username=MatheusCordeiroP&show_icons=true&theme=darcula" width="400" align="center" /> </a>
 -->
