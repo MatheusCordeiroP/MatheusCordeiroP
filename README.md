@@ -32,6 +32,8 @@ Olá pessoa que está lendo o código desse README. Ignore essas imagens de plac
 <a> <img src="https://raw.githubusercontent.com/MatheusCordeiroP/MatheusCordeiroP/main/img/readme-180.png" align="center" /> </a>
 -->
 
+<h2> Github Stats </h2>
+
 <div align="center">
 <a href="https://github.com/MatheusCordeiroP" > 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCordeiroP&layout=compact&hide_progress=true&theme=darcula" style="margin-bottom: 20px; margin-right: 20px;" />
@@ -40,9 +42,10 @@ Olá pessoa que está lendo o código desse README. Ignore essas imagens de plac
 </a>
 </div>
 
-<h3> Contact me: </h3>
+<h2> Contact me: </h2>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusCordeiroP)](https://github.com/MatheusCordeiroP)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pereira-cordeiro)](https://www.linkedin.com/in/matheus-pereira-cordeiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pereira-cordeiro/)](https://www.linkedin.com/in/matheus-pereira-cordeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscordeirop@gmail.com)](mailto:matheuscordeirop@gmail.com)
 
 
