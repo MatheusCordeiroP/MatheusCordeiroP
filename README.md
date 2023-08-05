@@ -22,15 +22,15 @@ Aqui no github eu pretendo compartilhar o meu processo de tornar os projetos que
 
 Sinta-se a vontade para contribuir em qualquer projeto aqui, ou para me enviar um email em <a  href="mailto:matheuscordeirop@gmail.com" alt="Gmail" target="blank"  >matheuscordeirop@gmail.com</a>.
 
-<h2> README under construction! </h2>
-
-<a> <img src="https://i0.statig.com.br/bancodeimagens/5i/6x/4l/5i6x4ly396q2ioenmxznv4zd3.jpg" align="center"/> </a>
+<!--
+Olá pessoa que está lendo o código desse README. Ignore essas imagens de placeholder aqui embaixo, finja que nem viu.
 
 <h3> Essa é uma imagem com 1080px de altura! </h3>
 <a> <img src="https://raw.githubusercontent.com/MatheusCordeiroP/MatheusCordeiroP/main/img/readme-1080.png" align="center" /> </a>
 
 <h4> Essa é uma imagem com 180px de altura! </h4>
 <a> <img src="https://raw.githubusercontent.com/MatheusCordeiroP/MatheusCordeiroP/main/img/readme-180.png" align="center" /> </a>
+-->
 
 <div align="center">
 <a href="https://github.com/MatheusCordeiroP" > 
@@ -39,6 +39,12 @@ Sinta-se a vontade para contribuir em qualquer projeto aqui, ou para me enviar u
 <img height="180em" alt="GitHub Stats for MatheusCordeiroP" src="https://github-readme-stats.vercel.app/api?username=MatheusCordeiroP&show_icons=true&theme=darcula" />
 </a>
 </div>
+
+<h3> Contact me: </h3>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusCordeiroP)](https://github.com/MatheusCordeiroP)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pereira-cordeiro)](https://www.linkedin.com/in/matheus-pereira-cordeiro/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscordeirop@gmail.com)](mailto:matheuscordeirop@gmail.com)
+
 
 <!--
 
