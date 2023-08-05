@@ -34,7 +34,7 @@ Sinta-se a vontade para contribuir em qualquer projeto aqui, ou para me enviar u
 
 <div align="center">
 <a href="https://github.com/MatheusCordeiroP" > 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCordeiroP&hide_progress=true" style="margin-bottom: 20px; margin-right: 20px;" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCordeiroP&layout=compact&hide_progress=true&theme=darcula" style="margin-bottom: 20px; margin-right: 20px;" />
 
 <img height="180em" alt="GitHub Stats for MatheusCordeiroP" src="https://github-readme-stats.vercel.app/api?username=MatheusCordeiroP&show_icons=true&theme=darcula" />
 </a>
