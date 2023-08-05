@@ -8,6 +8,8 @@
 
 Feel free to contribute in any project here, or to email me in <a  href="mailto:matheuscordeirop@gmail.com" alt="Gmail" target="blank" >matheuscordeirop@gmail.com</a>.
 
+
+
 <h2> 🇧🇷 Leia em Brasileiro 🇧🇷 </h2>
 
  - 🔨 Atualmente estou apenas estudando, mas estou disponível a propostas de trabalho.
@@ -28,6 +30,8 @@ Olá pessoa que está lendo o código desse README. Ignore essas imagens de plac
 <a> <img src="https://raw.githubusercontent.com/MatheusCordeiroP/MatheusCordeiroP/main/img/readme-180.png" align="center" /> </a>
 -->
 
+
+
 <h2> Github Stats </h2>
 
 <div align="center">
@@ -37,6 +41,8 @@ Olá pessoa que está lendo o código desse README. Ignore essas imagens de plac
 <img height="180em" alt="GitHub Stats for MatheusCordeiroP" src="https://github-readme-stats.vercel.app/api?username=MatheusCordeiroP&show_icons=true&theme=darcula" />
 </a>
 </div>
+
+
 
 <h2> Contact me: </h2>
 
