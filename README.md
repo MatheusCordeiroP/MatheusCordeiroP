@@ -10,7 +10,7 @@ Feel free to contribute in any project here, or to email me in <a  href="mailto:
 
 
 
-<h2> 🇧🇷 Leia em Brasileiro 🇧🇷 </h2>
+<h2> Leia em Português 🇧🇷 </h2>
 
  - 🔨 Atualmente estou apenas estudando, mas estou disponível a propostas de trabalho.
  - 📚 Sou graduado como Tecnólogo em Jogos Digitais pela Facens.
