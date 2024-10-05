@@ -1,9 +1,9 @@
 <h2> 👋 Hello everyone, I'm Matheus </h2>
 
- - 🔨 Currently, I'm focused on studying, but I'm open to job opportunities.
+ - 🔨 Currently, I work with frontend development with Angular and NodeJS.
  - 📚 I hold a degree as a Digital Game Technologist from Facens.
- - 🏡 Currently utilizing technologies like ReactJS, NodeJS, TypeScript, and SQL. (Also C# and GDScript occasionally.)
- - 🌱 I plan to learn a bit more about Python in the future.
+ - 🏡 I have experience with ReactJS, NodeJS, Angular, Typescript, and SQL. (among some other)
+ - 🌱 Outside of work hours, I have been making games using the Godot Game Engine. And I have really enjoyed using GDScript for game development.
  - 🎨 When not programming, you'll likely find me: Playing board or card games, drawing, or delving into some highly specific scientific topic that probably won't have practical uses in my life.
 
 Feel free to contribute in any project here, or to email me in <a  href="mailto:matheuscordeirop@gmail.com" alt="Gmail" target="blank" >matheuscordeirop@gmail.com</a>.
@@ -12,10 +12,10 @@ Feel free to contribute in any project here, or to email me in <a  href="mailto:
 
 <h2> Leia em Português 🇧🇷 </h2>
 
- - 🔨 Atualmente estou apenas estudando, mas estou disponível a propostas de trabalho.
+ - 🔨 Atualmente eu trabalho com desenvolvimento frontend com Angular e NodeJS.
  - 📚 Sou graduado como Tecnólogo em Jogos Digitais pela Facens.
- - 🏡 Utilizando atualmente tecnologias como ReactJS, NodeJS, Typecript, e SQL. (Além de C# e GDScript, às vezes.)
- - 🌱 Pretendo estudar mais sobre Python futuramente.
+ - 🏡 Tenho experiência com ReactJS, NodeJS, Angular, Typescript, e SQL. (entre algumas outras)
+ - 🌱 Fora do horário de trabalho, tenho feito jogos usando a Game Engine Godot. E tenho gostado bastante do GDScript para o desenvolvimento de jogos.
  - 🎨 Quando não estiver programando, provavelmente estarei: Jogando jogos de tabuleiro ou de cartas, desenhando, ou estudando algum tópico científico super específico que provavelmente não terei usos práticos na minha vida.
 
 Sinta-se a vontade para contribuir em qualquer projeto aqui, ou para me enviar um email em <a  href="mailto:matheuscordeirop@gmail.com" alt="Gmail" target="blank"  >matheuscordeirop@gmail.com</a>.
